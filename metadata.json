@@ -1,0 +1,7 @@
+{
+  "name": "Smaklig - Din Receptsamling",
+  "description": "En elegant, iOS-inspirerad recepthanterare som använder AI för att generera och organisera dina favoritrecept.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
